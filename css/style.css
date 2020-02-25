@@ -1,0 +1,223 @@
+
+
+.dark-blue{
+	background-color:#092B52;
+}
+.bg-light-gray{
+	background-color:#F5F9FA;
+}
+.custom-index{
+	z-index:1;
+	
+}
+
+.m-top{
+	margin-top:5px !important;
+}
+.text-color i{
+	color:white;
+}
+
+.font-times{
+	font-family:"Times New Roman",Times, serif;
+}
+
+
+
+.bg-light-gray{
+background-color:#f5f9fa;
+}
+
+.text-hint{
+	height:120px;
+	width:610px;
+}
+
+@media (max-width:768px)
+{
+	
+.text-hint{
+	height:60px;
+	width:280px;
+	margin-left:15px;
+}
+.form-hint{
+	width:280px;
+}
+.bck{
+font-size:12px;}
+}
+
+
+/* media query */
+@media (max-width:1200px)
+{
+	.toggle-btn{
+		text-align:right !important;
+	}
+}
+@media (min-width:678px)
+{
+	.toggle-btn{
+		text-align:right !important;
+	}
+}
+
+
+@media (max-width:576px){
+	.footer-sm-list ul{
+		display:block!important;
+	
+	}
+	.footer-sm-list ul li{
+		border:none!important;
+	}
+}
+
+
+
+.img{
+	
+	height:300px;
+	width:300px;
+}
+
+
+.mb{
+	
+	margin-bottom:18% !important;
+}
+
+.bg-color{
+background-color: #e9ecef;}
+
+
+.g-color{
+background-color: #f5f9fa;}
+
+
+
+body{
+	background-color:#e9ecef;
+}
+.font-fam{
+	font-family:sans-serif;
+	
+}
+
+
+	.bg-img{
+		background-image:url("../img/background1.jpg");
+		
+	}
+	
+	
+	.font-family{
+		font-family:Times New Roman;
+	}
+	.form-color{
+		background-color:#395682;
+	}
+	
+
+
+.font-times {
+  font-family: "Times New Roman", Times, serif;
+}
+.dark-blue {
+	background-color:#092B52;
+}
+.bg-light-gray {
+	background-color:#F5F9Fa;
+}
+
+.text-color i{
+	color:white;
+}
+.dark-blue{
+	background-color:#092B52;
+}
+.font-times{
+	font-family:"Times New Roman",Times, serif;
+}
+
+@media (max-width:1200px)
+{
+	.toggle-btn{
+		text-align:right !important;
+	}
+}
+@media (min-width:678px)
+{
+	.toggle-btn{
+		text-align:right !important;
+	}
+}
+
+
+@media (max-width:576px){
+	.footer-sm-list ul{
+		display:block!important;
+	
+	}
+	.footer-sm-list ul li{
+		border:none!important;
+	}
+}
+
+
+
+
+
+
+
+.dark-blue{
+background-color:#092B52;
+}
+
+.border-blue{
+border:1px solid #092B52;
+}
+
+.borderbtm-blue{
+border-bottom:5px solid #092B52;
+}
+
+Header section*/
+.text-color i{
+	color:white;
+}
+.dark-blue{
+	background-color:#092B52;
+}
+.font-times{
+	font-family:"Times New Roman",Times, serif;
+}
+/* media query */
+@media (max-width:1200px)
+{
+	.toggle-btn{
+		text-align:right !important;
+	}
+}
+@media (min-width:678px)
+{
+	.toggle-btn{
+		text-align:right !important;
+	}
+}
+
+
+
+@media(max-width:768px){
+	
+}
+@media (max-width:768px)
+{
+	.mb{
+		margin-bottom:0% !important;
+	}
+	.h1{
+		font-size:22px;
+	}
+}
